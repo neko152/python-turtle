@@ -15,9 +15,9 @@ Creating simple games and animations.
 # 🔹Why Should Developers Care?
 
 Even though Turtle seems simple, it's useful for:
-✅ Teaching programming (logic, algorithms).
-✅ Quick prototyping of graphics.
-✅ Demonstrating recursion (e.g., fractals).
+    ✅ Teaching programming (logic, algorithms).
+    ✅ Quick prototyping of graphics.
+    ✅ Demonstrating recursion (e.g., fractals).
 🌿 Example: Recursive Tree
 python
 
